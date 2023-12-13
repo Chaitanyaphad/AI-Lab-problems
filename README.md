@@ -20,5 +20,5 @@ implementation of graph algorithm
 Water jug Problem has been solved using
 1. Breadth First Search <br>
 
-Missionary Cannible Problem has been solved using
-1. Breadth First Search <br>
+Missionary Cannible Problem has been solved using <br>
+1. Breadth First Search
