@@ -25,8 +25,10 @@ Missionary Cannible Problem has been solved using <br>
 
 Crypto Arithmatic Problem
 
-the digits  (0-9) get substituted by some possible alphabets or symbols. 
+1. the digits  (0-9) get substituted by some possible alphabets or symbols. 
 The task in cryptarithmetic problem is to substitute each digit with an 
 alphabet to get the result arithmetically correct.
 
-Given a cryptarithmetic problem, i.e., S E N D + M O R E = M O N E Y
+2. Given a cryptarithmetic problem, i.e., S E N D + M O R E = M O N E Y
+
+NQueen Problem using Backtracking
